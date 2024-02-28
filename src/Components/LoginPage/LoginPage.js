@@ -16,10 +16,13 @@ const LoginPage = () => {
     }
   };
 
+  
+
   return (
     <div className="login-page">
       <div className="login-pg-body">
         <div className="login-pg-left">
+          {/* form start */}
           <form>
             <h1>Welcome</h1>
             <p>Please enter your details</p>

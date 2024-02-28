@@ -140,6 +140,11 @@ input:focus {
   width: 14px;
   margin-right: 5px;
 }
+.pass-icon:hover{
+  background-color: red;
+  color: red;
+  border: 3px solid red;
+}
 
 /* Desktop view */
 @media (min-width: 992px) {
